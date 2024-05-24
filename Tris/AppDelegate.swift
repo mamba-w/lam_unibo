@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Tris
 //
-//  Created by Martina D'Angelo on 14/06/18.
+//  Created by Matteo Tancredi on 14/06/18.
 //  Copyright © 2018 Matteo Tancredi. All rights reserved.
 //
 

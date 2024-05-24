@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		84339EA420D2F4D100B471C8 /* Tic-Tac-Toc.png in Resources */ = {isa = PBXBuildFile; fileRef = 84339EA320D2F4D000B471C8 /* Tic-Tac-Toc.png */; };
 		84AE3B9720D2CA0400582C30 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84AE3B9620D2CA0400582C30 /* AppDelegate.swift */; };
 		84AE3B9920D2CA0400582C30 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84AE3B9820D2CA0400582C30 /* ViewController.swift */; };
 		84AE3B9C20D2CA0400582C30 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84AE3B9A20D2CA0400582C30 /* Main.storyboard */; };
@@ -14,6 +15,9 @@
 		84AE3BA120D2CA0600582C30 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84AE3B9F20D2CA0600582C30 /* LaunchScreen.storyboard */; };
 		84AE3BAC20D2CA0700582C30 /* TrisTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84AE3BAB20D2CA0700582C30 /* TrisTests.swift */; };
 		84AE3BB720D2CA0700582C30 /* TrisUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84AE3BB620D2CA0700582C30 /* TrisUITests.swift */; };
+		84AE3BC720D2CAC900582C30 /* Piano.png in Resources */ = {isa = PBXBuildFile; fileRef = 84AE3BC420D2CAC800582C30 /* Piano.png */; };
+		84AE3BC820D2CAC900582C30 /* Cerchio.png in Resources */ = {isa = PBXBuildFile; fileRef = 84AE3BC520D2CAC800582C30 /* Cerchio.png */; };
+		84AE3BC920D2CAC900582C30 /* Croce.png in Resources */ = {isa = PBXBuildFile; fileRef = 84AE3BC620D2CAC900582C30 /* Croce.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		84339EA320D2F4D000B471C8 /* Tic-Tac-Toc.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Tic-Tac-Toc.png"; path = "../../Tic-Tac-Toc.png"; sourceTree = "<group>"; };
 		84AE3B9320D2CA0400582C30 /* Tris.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tris.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		84AE3B9620D2CA0400582C30 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		84AE3B9820D2CA0400582C30 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +52,9 @@
 		84AE3BB220D2CA0700582C30 /* TrisUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TrisUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		84AE3BB620D2CA0700582C30 /* TrisUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrisUITests.swift; sourceTree = "<group>"; };
 		84AE3BB820D2CA0700582C30 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84AE3BC420D2CAC800582C30 /* Piano.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Piano.png; path = ../../Piano.png; sourceTree = "<group>"; };
+		84AE3BC520D2CAC800582C30 /* Cerchio.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Cerchio.png; path = ../../Cerchio.png; sourceTree = "<group>"; };
+		84AE3BC620D2CAC900582C30 /* Croce.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Croce.png; path = ../../Croce.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +108,10 @@
 				84AE3B9620D2CA0400582C30 /* AppDelegate.swift */,
 				84AE3B9820D2CA0400582C30 /* ViewController.swift */,
 				84AE3B9A20D2CA0400582C30 /* Main.storyboard */,
+				84AE3BC520D2CAC800582C30 /* Cerchio.png */,
+				84AE3BC620D2CAC900582C30 /* Croce.png */,
+				84AE3BC420D2CAC800582C30 /* Piano.png */,
+				84339EA320D2F4D000B471C8 /* Tic-Tac-Toc.png */,
 				84AE3B9D20D2CA0600582C30 /* Assets.xcassets */,
 				84AE3B9F20D2CA0600582C30 /* LaunchScreen.storyboard */,
 				84AE3BA220D2CA0600582C30 /* Info.plist */,
@@ -231,7 +243,11 @@
 			files = (
 				84AE3BA120D2CA0600582C30 /* LaunchScreen.storyboard in Resources */,
 				84AE3B9E20D2CA0600582C30 /* Assets.xcassets in Resources */,
+				84AE3BC820D2CAC900582C30 /* Cerchio.png in Resources */,
+				84339EA420D2F4D100B471C8 /* Tic-Tac-Toc.png in Resources */,
 				84AE3B9C20D2CA0400582C30 /* Main.storyboard in Resources */,
+				84AE3BC920D2CAC900582C30 /* Croce.png in Resources */,
+				84AE3BC720D2CAC900582C30 /* Piano.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
